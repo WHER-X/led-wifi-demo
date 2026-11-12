@@ -1,0 +1,15 @@
+# 编译产物
+*.o
+*.exe
+build/
+out/
+
+# 本地配置和密钥（绝对不要提交）
+config.local.*
+*.key
+*.pem
+.env
+
+# 编辑器
+.vscode/
+.idea/
